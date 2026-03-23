@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@import "@mahdava/ui/tw-inline-source.css";
 @import "@mahdava/ui/styles.css";
 
 :root {

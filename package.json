@@ -9,7 +9,7 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "@mahdava/ui": "^0.1.6",
+    "@mahdava/ui": "^0.1.7",
     "next": "15.2.4",
     "react": "19.2.4",
     "react-dom": "19.2.4"
