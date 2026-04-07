@@ -1,6 +1,6 @@
 @import "tailwindcss";
-@import "@mahdava/ui/tw-inline-source.css";
 @import "@mahdava/ui/styles.css";
+@import "@mahdava/ui/themes/default.css";
 
 :root {
   --background: #0b1020;
